@@ -17,12 +17,32 @@
 
 ## Instructors
 
-| Name | Role | Email |
-|------|------|-------|
-| Urvish Trivedi | Coordinator | urvish.trivedi@bio.ku.dk |
-| Antonio Fernandez-Guerra | Coordinator | antonio.fernandez-guerra@sund.ku.dk |
-| Soren J. Sorensen | Coordinator | sjs@bio.ku.dk |
-| Morten T. Limborg | Instructor | morten.limborg@sund.ku.dk |
+### Coordinators
+
+| Name | Email |
+|------|-------|
+| Urvish Trivedi (UT) | urvish.trivedi@bio.ku.dk |
+| Antonio Fernandez Guerra (AFG) | antonio.fernandez-guerra@sund.ku.dk |
+| Søren J. Sørensen (SJS) | sjs@bio.ku.dk |
+
+### Instructors
+
+| Name | Email |
+|------|-------|
+| Morten T. Limborg (ML) | morten.limborg@sund.ku.dk |
+| Antton Alberdi (AA) | |
+
+### Teaching team
+
+| Name | Email |
+|------|-------|
+| Jonas Coelho Kasmanas (JK) | jonas.kasmanas@bio.ku.dk |
+| Yunjeong So (YS) | yunjeong.so@sund.ku.dk |
+| Sam Williams (SW) | |
+| Bryant Chambers (BC) | |
+| Guillermo Rangel (GR) | guillermo.pineros@sund.ku.dk |
+| Mateu Menéndez-Serra (MMS) | |
+| Amalia Bogri (AB) | |
 
 ## Repository structure
 
