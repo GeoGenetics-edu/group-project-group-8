@@ -1,16 +1,5 @@
 # Week 20 — Community Analysis: Diversity and Ordination
 
-## Schedule
-
-| Day | Time | Activity |
-|-----|------|----------|
-| Monday | 09:15–10:30 | Theory: diversity metrics |
-| Monday | 10:45–12:00 | Theory: multivariate statistics, multiple testing correction |
-| Tuesday | 13:15–14:15 | Practical: phyloseq, organising data |
-| Tuesday | 14:30–16:00 | Practical: alpha diversity testing |
-| Friday | 09:15–10:30 | Practical: beta diversity, ordination |
-| Friday | 10:45–12:00 | Guest lecture |
-
 ## Learning objectives
 
 - Organise abundance data for analysis
