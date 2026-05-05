@@ -1,0 +1,27 @@
+==============================================
+Accession : ERR2641635  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/ERR2641635.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635
+==============================================
+Accession : ERR2641677  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/ERR2641677.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677
+==============================================
+Accession : ERR2641733  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/ERR2641733.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733

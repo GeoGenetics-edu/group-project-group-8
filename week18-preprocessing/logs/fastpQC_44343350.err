@@ -1,0 +1,133 @@
+fastp 0.24.0
+Read1 before filtering:
+total reads: 30463320
+total bases: 3076795320
+Q20 bases: 1904613734(61.9025%)
+Q30 bases: 1780146346(57.8572%)
+
+Read2 before filtering:
+total reads: 30463320
+total bases: 3076795320
+Q20 bases: 1912313807(62.1528%)
+Q30 bases: 1780976827(57.8842%)
+
+Read1 after filtering:
+total reads: 18363705
+total bases: 1835658233
+Q20 bases: 1768614548(96.3477%)
+Q30 bases: 1674913411(91.2432%)
+
+Read2 after filtering:
+total reads: 18363705
+total bases: 1835754687
+Q20 bases: 1765739970(96.1861%)
+Q30 bases: 1668780859(90.9043%)
+
+Filtering result:
+reads passed filter: 36727410
+reads failed due to low quality: 24138616
+reads failed due to too many N: 26472
+reads failed due to too short: 33890
+reads failed due to low complexity: 252
+reads with adapter trimmed: 3690890
+bases trimmed due to adapters: 43069420
+reads with polyX in 3' end: 17927412
+bases trimmed in polyX tail: 11297288
+
+Duplication rate: 29.6378%
+
+Insert size peak (evaluated by paired-end reads): 101
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR059458/SRR059458_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR059458/SRR059458_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059458/SRR059458_fastp_report.json 
+fastp v0.24.0, time used: 64 seconds
+Read1 before filtering:
+total reads: 30333358
+total bases: 3063669158
+Q20 bases: 1922516072(62.7521%)
+Q30 bases: 1809073778(59.0493%)
+
+Read2 before filtering:
+total reads: 30333358
+total bases: 3063669158
+Q20 bases: 1904831578(62.1748%)
+Q30 bases: 1778093328(58.038%)
+
+Read1 after filtering:
+total reads: 18388757
+total bases: 1838333804
+Q20 bases: 1781134052(96.8885%)
+Q30 bases: 1697747915(92.3525%)
+
+Read2 after filtering:
+total reads: 18388757
+total bases: 1838357974
+Q20 bases: 1771588982(96.368%)
+Q30 bases: 1677438060(91.2465%)
+
+Filtering result:
+reads passed filter: 36777514
+reads failed due to low quality: 23825446
+reads failed due to too many N: 32220
+reads failed due to too short: 31292
+reads failed due to low complexity: 244
+reads with adapter trimmed: 3639656
+bases trimmed due to adapters: 41990735
+reads with polyX in 3' end: 17758229
+bases trimmed in polyX tail: 11305242
+
+Duplication rate: 29.7455%
+
+Insert size peak (evaluated by paired-end reads): 101
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR059459/SRR059459_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR059459/SRR059459_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR059459/SRR059459_fastp_report.json 
+fastp v0.24.0, time used: 66 seconds
+Read1 before filtering:
+total reads: 68696391
+total bases: 6869639100
+Q20 bases: 367005703(5.34243%)
+Q30 bases: 345352280(5.02723%)
+
+Read2 before filtering:
+total reads: 68696391
+total bases: 6869639100
+Q20 bases: 286982130(4.17754%)
+Q30 bases: 272865168(3.97205%)
+
+Read1 after filtering:
+total reads: 2840683
+total bases: 283941166
+Q20 bases: 279803059(98.5426%)
+Q30 bases: 268376028(94.5182%)
+
+Read2 after filtering:
+total reads: 2840683
+total bases: 283945983
+Q20 bases: 279532967(98.4458%)
+Q30 bases: 267986316(94.3793%)
+
+Filtering result:
+reads passed filter: 5681366
+reads failed due to low quality: 131708384
+reads failed due to too many N: 1328
+reads failed due to too short: 1702
+reads failed due to low complexity: 2
+reads with adapter trimmed: 13082
+bases trimmed due to adapters: 251800
+reads with polyX in 3' end: 128978070
+bases trimmed in polyX tail: 356010
+
+Duplication rate: 94.7202%
+
+Insert size peak (evaluated by paired-end reads): 100
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR513791/SRR513791_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/vaginal/SRR513791/SRR513791_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/vaginal/SRR513791/SRR513791_fastp_report.json 
+fastp v0.24.0, time used: 49 seconds

@@ -1,0 +1,39 @@
+==============================================
+Accession : ERR2641635  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/ERR2641635.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 39780630
+  microbial bases : 5963537186
+  host reads      : 1704
+  host bases      : 255035
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned
+==============================================
+Accession : ERR2641677  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/ERR2641677.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 43605968
+  microbial bases : 6537458194
+  host reads      : 15970
+  host bases      : 2390493
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned
+==============================================
+Accession : ERR2641733  (gut_adult)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/ERR2641733.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 39319000
+  microbial bases : 5895643180
+  host reads      : 10068
+  host bases      : 1505811
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned

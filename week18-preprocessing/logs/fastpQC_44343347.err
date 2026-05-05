@@ -1,0 +1,133 @@
+fastp 0.24.0
+Read1 before filtering:
+total reads: 35858430
+total bases: 5395931400
+Q20 bases: 5160265491(95.6325%)
+Q30 bases: 4895549313(90.7267%)
+
+Read2 before filtering:
+total reads: 35858430
+total bases: 5396295970
+Q20 bases: 4995789813(92.5781%)
+Q30 bases: 4731443575(87.6795%)
+
+Read1 after filtering:
+total reads: 33965230
+total bases: 5110018980
+Q20 bases: 4914793941(96.1796%)
+Q30 bases: 4668987663(91.3693%)
+
+Read2 after filtering:
+total reads: 33965230
+total bases: 5109895264
+Q20 bases: 4843538636(94.7874%)
+Q30 bases: 4602866880(90.0775%)
+
+Filtering result:
+reads passed filter: 67930460
+reads failed due to low quality: 2813646
+reads failed due to too many N: 43364
+reads failed due to too short: 926072
+reads failed due to low complexity: 3318
+reads with adapter trimmed: 47412
+bases trimmed due to adapters: 3036911
+reads with polyX in 3' end: 215399
+bases trimmed in polyX tail: 4198972
+
+Duplication rate: 2.65173%
+
+Insert size peak (evaluated by paired-end reads): 0
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692206/SRR8692206_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692206/SRR8692206_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206/SRR8692206_fastp_report.json 
+fastp v0.24.0, time used: 137 seconds
+Read1 before filtering:
+total reads: 31121398
+total bases: 4684703369
+Q20 bases: 4450738889(95.0058%)
+Q30 bases: 4209373573(89.8536%)
+
+Read2 before filtering:
+total reads: 31121398
+total bases: 4684821356
+Q20 bases: 4348457713(92.8201%)
+Q30 bases: 4120245077(87.9488%)
+
+Read1 after filtering:
+total reads: 29575617
+total bases: 4451390932
+Q20 bases: 4255575547(95.601%)
+Q30 bases: 4030611375(90.5472%)
+
+Read2 after filtering:
+total reads: 29575617
+total bases: 4451199857
+Q20 bases: 4220321889(94.8131%)
+Q30 bases: 4011277371(90.1168%)
+
+Filtering result:
+reads passed filter: 59151234
+reads failed due to low quality: 2370472
+reads failed due to too many N: 37536
+reads failed due to too short: 681346
+reads failed due to low complexity: 2208
+reads with adapter trimmed: 26716
+bases trimmed due to adapters: 1485422
+reads with polyX in 3' end: 155442
+bases trimmed in polyX tail: 3113222
+
+Duplication rate: 2.02178%
+
+Insert size peak (evaluated by paired-end reads): 0
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692207/SRR8692207_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692207/SRR8692207_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207/SRR8692207_fastp_report.json 
+fastp v0.24.0, time used: 119 seconds
+Read1 before filtering:
+total reads: 27633600
+total bases: 4156241047
+Q20 bases: 4038531229(97.1679%)
+Q30 bases: 3873580253(93.1991%)
+
+Read2 before filtering:
+total reads: 27633600
+total bases: 4156384911
+Q20 bases: 3969296367(95.4988%)
+Q30 bases: 3822667881(91.971%)
+
+Read1 after filtering:
+total reads: 26695850
+total bases: 4014979099
+Q20 bases: 3914001488(97.485%)
+Q30 bases: 3757208148(93.5798%)
+
+Read2 after filtering:
+total reads: 26695850
+total bases: 4013922193
+Q20 bases: 3889826579(96.9084%)
+Q30 bases: 3753818990(93.52%)
+
+Filtering result:
+reads passed filter: 53391700
+reads failed due to low quality: 1375308
+reads failed due to too many N: 55564
+reads failed due to too short: 444206
+reads failed due to low complexity: 422
+reads with adapter trimmed: 17236
+bases trimmed due to adapters: 897522
+reads with polyX in 3' end: 115243
+bases trimmed in polyX tail: 4248236
+
+Duplication rate: 3.57227%
+
+Insert size peak (evaluated by paired-end reads): 0
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692213/SRR8692213_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_infant/SRR8692213/SRR8692213_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213/SRR8692213_fastp_report.json 
+fastp v0.24.0, time used: 102 seconds

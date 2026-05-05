@@ -1,0 +1,19 @@
+Using bowtie2 index: /maps/projects/course_1/data/human_genome_db/hg38
+==============================================
+Accession : SRR059458  (vaginal)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/SRR059458.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/SRR059458.host.bam
+==============================================
+Accession : SRR059459  (vaginal)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/SRR059459.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/SRR059459.host.bam
+==============================================
+Accession : SRR513791  (vaginal)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/SRR513791.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/SRR513791.host.bam

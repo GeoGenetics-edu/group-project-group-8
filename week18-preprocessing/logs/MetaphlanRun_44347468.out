@@ -1,0 +1,32 @@
+Found 3 accession(s) under /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/tmp_decompressed_dQvwXO/SRR8692206_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/tmp_decompressed_dQvwXO/SRR8692206_2.fq
+======================================================================
+[2026-04-29 22:58:32] Profiling: SRR8692206
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/SRR8692206_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/tmp_decompressed_dQvwXO/SRR8692206_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/tmp_decompressed_dQvwXO/SRR8692206_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/SRR8692206.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692206/SRR8692206_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/tmp_decompressed_wCH2P4/SRR8692207_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/tmp_decompressed_wCH2P4/SRR8692207_2.fq
+======================================================================
+[2026-04-29 23:26:43] Profiling: SRR8692207
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/SRR8692207_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/tmp_decompressed_wCH2P4/SRR8692207_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/tmp_decompressed_wCH2P4/SRR8692207_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/SRR8692207.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692207/SRR8692207_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/tmp_decompressed_h15yjd/SRR8692213_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/tmp_decompressed_h15yjd/SRR8692213_2.fq
+======================================================================
+[2026-04-29 23:52:45] Profiling: SRR8692213
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/SRR8692213_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/tmp_decompressed_h15yjd/SRR8692213_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/tmp_decompressed_h15yjd/SRR8692213_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/SRR8692213.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_infant/SRR8692213/SRR8692213_metaphlan.txt
+======================================================================
+======================================================================
+[2026-04-30 00:16:49] Batch finished.
+  Bodysite:   gut_infant
+  Succeeded:  3 / 3

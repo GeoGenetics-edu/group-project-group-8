@@ -1,0 +1,27 @@
+==============================================
+Accession : SRR059458  (vaginal)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/SRR059458.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458
+==============================================
+Accession : SRR059459  (vaginal)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/SRR059459.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459
+==============================================
+Accession : SRR513791  (vaginal)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/SRR513791.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791

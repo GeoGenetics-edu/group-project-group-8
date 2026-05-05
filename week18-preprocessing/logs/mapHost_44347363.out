@@ -1,0 +1,19 @@
+Using bowtie2 index: /maps/projects/course_1/data/human_genome_db/hg38
+==============================================
+Accession : SRR8692206  (gut_infant)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/SRR8692206.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/SRR8692206.host.bam
+==============================================
+Accession : SRR8692207  (gut_infant)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/SRR8692207.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/SRR8692207.host.bam
+==============================================
+Accession : SRR8692213  (gut_infant)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/SRR8692213.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/SRR8692213.host.bam

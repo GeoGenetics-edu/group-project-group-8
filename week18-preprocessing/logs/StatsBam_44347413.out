@@ -1,0 +1,27 @@
+==============================================
+Accession : SRR8692206  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/SRR8692206.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206
+==============================================
+Accession : SRR8692207  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/SRR8692207.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207
+==============================================
+Accession : SRR8692213  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/SRR8692213.host.bam
+==============================================
+[1/4] samtools index
+[2/4] samtools flagstat
+[3/4] samtools idxstats
+[4/4] samtools stats
+Done: stats written to /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213

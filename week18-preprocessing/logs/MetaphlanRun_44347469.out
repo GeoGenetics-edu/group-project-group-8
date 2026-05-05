@@ -1,0 +1,32 @@
+Found 3 accession(s) under /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/tmp_decompressed_JS40oK/SRR059458_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/tmp_decompressed_JS40oK/SRR059458_2.fq
+======================================================================
+[2026-04-29 22:57:16] Profiling: SRR059458
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/SRR059458_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/tmp_decompressed_JS40oK/SRR059458_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/tmp_decompressed_JS40oK/SRR059458_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/SRR059458.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059458/SRR059458_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/tmp_decompressed_TP6Esl/SRR059459_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/tmp_decompressed_TP6Esl/SRR059459_2.fq
+======================================================================
+[2026-04-29 23:09:17] Profiling: SRR059459
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/SRR059459_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/tmp_decompressed_TP6Esl/SRR059459_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/tmp_decompressed_TP6Esl/SRR059459_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/SRR059459.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR059459/SRR059459_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/tmp_decompressed_WG2VxW/SRR513791_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/tmp_decompressed_WG2VxW/SRR513791_2.fq
+======================================================================
+[2026-04-29 23:20:11] Profiling: SRR513791
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/SRR513791_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/tmp_decompressed_WG2VxW/SRR513791_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/tmp_decompressed_WG2VxW/SRR513791_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/SRR513791.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/vaginal/SRR513791/SRR513791_metaphlan.txt
+======================================================================
+======================================================================
+[2026-04-29 23:23:05] Batch finished.
+  Bodysite:   vaginal
+  Succeeded:  3 / 3

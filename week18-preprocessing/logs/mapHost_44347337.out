@@ -1,0 +1,19 @@
+Using bowtie2 index: /maps/projects/course_1/data/human_genome_db/hg38
+==============================================
+Accession : ERR2641635  (gut_adult)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/ERR2641635.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/ERR2641635.host.bam
+==============================================
+Accession : ERR2641677  (gut_adult)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/ERR2641677.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/ERR2641677.host.bam
+==============================================
+Accession : ERR2641733  (gut_adult)
+Threads   : 20
+Output    : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/ERR2641733.host.bam
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/ERR2641733.host.bam

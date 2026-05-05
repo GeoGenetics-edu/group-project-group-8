@@ -1,0 +1,27 @@
+MEGAHIT v1.2.9
+Found 3 accession(s) under /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult
+======================================================================
+[2026-04-30 12:56:25] Assembling: gut_adult/ERR2641635
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641635
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641635
+======================================================================
+======================================================================
+[2026-04-30 13:35:58] Assembling: gut_adult/ERR2641677
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641677
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641677
+======================================================================
+======================================================================
+[2026-04-30 14:22:24] Assembling: gut_adult/ERR2641733
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641733
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_adult/ERR2641733
+======================================================================
+======================================================================
+[2026-04-30 15:13:20] Batch finished.
+  Bodysite:   gut_adult
+  Succeeded:  3 / 3

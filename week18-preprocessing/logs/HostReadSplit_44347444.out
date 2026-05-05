@@ -1,0 +1,39 @@
+==============================================
+Accession : SRR8692206  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/SRR8692206.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 67816540
+  microbial bases : 10202894561
+  host reads      : 109466
+  host bases      : 16353595
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned
+==============================================
+Accession : SRR8692207  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/SRR8692207.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 59150452
+  microbial bases : 8902473340
+  host reads      : 758
+  host bases      : 113850
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned
+==============================================
+Accession : SRR8692213  (gut_infant)
+BAM       : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/SRR8692213.host.bam
+Clean dir : /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned
+==============================================
+[1/3] Extracting microbial (unmapped) read pairs...
+[2/3] Counting microbial reads and bases...
+[3/3] Extracting host-mapped reads...
+  microbial reads : 53355954
+  microbial bases : 8023574143
+  host reads      : 34998
+  host bases      : 5215197
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned

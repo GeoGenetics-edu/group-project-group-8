@@ -1,0 +1,3 @@
+WARNING: missing paired-end FASTQ for gut_adult/ERR2641635, skipping.
+  expected: /projects/course_1/people/fvb335/01_raw_reads/gut_adult/gut_adult/ERR2641635/ERR2641635_1.fastq
+  expected: /projects/course_1/people/fvb335/01_raw_reads/gut_adult/gut_adult/ERR2641635/ERR2641635_2.fastq

@@ -1,0 +1,24 @@
+Usage:
+  Batch mode:
+    slurm_script -p <preproc_dir> -a <assembly_dir> -b <bodysite> -o <output_dir> [options]
+
+  Single-sample mode:
+    slurm_script -f <assembly.fa> -1 <R1.fq.gz> -2 <R2.fq.gz> -n <accession> -o <out_dir> [options]
+
+Batch-mode inputs:
+  -p, --preproc DIR      Preprocessing dir with <bodysite>/<acc>/cleaned/*_clean.fq.gz
+  -a, --assembly DIR     Assembly dir with <bodysite>/<acc>/final.contigs.fa
+  -b, --bodysite NAME    Bodysite subfolder (gut_adult | gut_infant | vaginal | ...)
+  -o, --output DIR       Root output dir (metabat2_binning)
+
+Single-sample inputs:
+  -f, --fasta FILE       Assembly FASTA
+  -1, --reads1 FILE      Forward reads (fastq[.gz])
+  -2, --reads2 FILE      Reverse reads (fastq[.gz])
+  -n, --accession NAME   Accession ID (used to name all outputs)
+  -o, --output DIR       Output dir for this sample
+
+Options:
+  -t, --threads INT      Threads for bowtie2 / samtools   (default: 15)
+  -m, --min-contig INT   MetaBAT2 minimum contig length   (default: 1500)
+  -h, --help             Show this help and exit

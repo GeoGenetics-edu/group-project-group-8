@@ -1,0 +1,133 @@
+fastp 0.24.0
+Read1 before filtering:
+total reads: 20102492
+total bases: 3015373800
+Q20 bases: 2980451846(98.8419%)
+Q30 bases: 2913106137(96.6085%)
+
+Read2 before filtering:
+total reads: 20102492
+total bases: 3015373800
+Q20 bases: 2921427429(96.8844%)
+Q30 bases: 2790496572(92.5423%)
+
+Read1 after filtering:
+total reads: 19891186
+total bases: 2981949694
+Q20 bases: 2951566091(98.9811%)
+Q30 bases: 2889758050(96.9083%)
+
+Read2 after filtering:
+total reads: 19891186
+total bases: 2981848213
+Q20 bases: 2902746836(97.3472%)
+Q30 bases: 2779347248(93.2089%)
+
+Filtering result:
+reads passed filter: 39782372
+reads failed due to low quality: 387648
+reads failed due to too many N: 18698
+reads failed due to too short: 16212
+reads failed due to low complexity: 54
+reads with adapter trimmed: 87620
+bases trimmed due to adapters: 4407813
+reads with polyX in 3' end: 81745
+bases trimmed in polyX tail: 854118
+
+Duplication rate: 11.9345%
+
+Insert size peak (evaluated by paired-end reads): 208
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641635/ERR2641635_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641635/ERR2641635_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635/ERR2641635_fastp_report.json 
+fastp v0.24.0, time used: 83 seconds
+Read1 before filtering:
+total reads: 22401603
+total bases: 3360240450
+Q20 bases: 3297511105(98.1332%)
+Q30 bases: 3186460684(94.8284%)
+
+Read2 before filtering:
+total reads: 22401603
+total bases: 3360240450
+Q20 bases: 3107075816(92.4659%)
+Q30 bases: 2795431635(83.1914%)
+
+Read1 after filtering:
+total reads: 21811047
+total bases: 3270031846
+Q20 bases: 3220288231(98.4788%)
+Q30 bases: 3124966882(95.5638%)
+
+Read2 after filtering:
+total reads: 21811047
+total bases: 3269839844
+Q20 bases: 3060075916(93.5849%)
+Q30 bases: 2770913634(84.7416%)
+
+Filtering result:
+reads passed filter: 43622094
+reads failed due to low quality: 1162448
+reads failed due to too many N: 3678
+reads failed due to too short: 14836
+reads failed due to low complexity: 150
+reads with adapter trimmed: 84196
+bases trimmed due to adapters: 3952922
+reads with polyX in 3' end: 106242
+bases trimmed in polyX tail: 1268971
+
+Duplication rate: 9.04432%
+
+Insert size peak (evaluated by paired-end reads): 266
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641677/ERR2641677_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641677/ERR2641677_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677/ERR2641677_fastp_report.json 
+fastp v0.24.0, time used: 96 seconds
+Read1 before filtering:
+total reads: 20584227
+total bases: 3087634050
+Q20 bases: 3017149992(97.7172%)
+Q30 bases: 2895500953(93.7773%)
+
+Read2 before filtering:
+total reads: 20584227
+total bases: 3087634050
+Q20 bases: 2786549253(90.2487%)
+Q30 bases: 2449732407(79.3401%)
+
+Read1 after filtering:
+total reads: 19664727
+total bases: 2948678288
+Q20 bases: 2898053625(98.2831%)
+Q30 bases: 2800765729(94.9838%)
+
+Read2 after filtering:
+total reads: 19664727
+total bases: 2948528477
+Q20 bases: 2716396879(92.1272%)
+Q30 bases: 2414831631(81.8996%)
+
+Filtering result:
+reads passed filter: 39329454
+reads failed due to low quality: 1825904
+reads failed due to too many N: 3816
+reads failed due to too short: 9182
+reads failed due to low complexity: 98
+reads with adapter trimmed: 58368
+bases trimmed due to adapters: 2487872
+reads with polyX in 3' end: 76445
+bases trimmed in polyX tail: 1039587
+
+Duplication rate: 4.78043%
+
+Insert size peak (evaluated by paired-end reads): 264
+
+JSON report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_fastp_report.json
+HTML report: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_fastp_report.html
+
+fastp --in1 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641733/ERR2641733_1.fastq --in2 /projects/course_1/people/fvb335/01_raw_reads/gut_adult/ERR2641733/ERR2641733_2.fastq --out1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_1.trimmed.fastq.gz --out2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_2.trimmed.fastq.gz --trim_poly_g --trim_poly_x --low_complexity_filter --n_base_limit 5 --qualified_quality_phred 20 --length_required 60 --thread 8 --html /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_fastp_report.html --json /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733/ERR2641733_fastp_report.json 
+fastp v0.24.0, time used: 87 seconds
