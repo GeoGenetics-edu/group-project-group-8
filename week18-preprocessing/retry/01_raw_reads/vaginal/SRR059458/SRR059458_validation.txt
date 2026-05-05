@@ -1,0 +1,9 @@
+2026-04-13T10:24:17 vdb-validate.3.0.0 info: Table 'SRR059458.sra' metadata: md5 ok
+2026-04-13T10:24:18 vdb-validate.3.0.0 info: Column 'ALTREAD': checksums ok
+2026-04-13T10:24:36 vdb-validate.3.0.0 info: Column 'INTENSITY': checksums ok
+2026-04-13T10:24:38 vdb-validate.3.0.0 info: Column 'QUALITY': checksums ok
+2026-04-13T10:24:38 vdb-validate.3.0.0 info: Column 'RD_FILTER': checksums ok
+2026-04-13T10:24:40 vdb-validate.3.0.0 info: Column 'READ': checksums ok
+2026-04-13T10:24:40 vdb-validate.3.0.0 info: Column 'X': checksums ok
+2026-04-13T10:24:41 vdb-validate.3.0.0 info: Column 'Y': checksums ok
+2026-04-13T10:24:41 vdb-validate.3.0.0 info: Table 'SRR059458.sra' is consistent

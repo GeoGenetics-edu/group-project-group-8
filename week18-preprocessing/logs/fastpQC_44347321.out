@@ -1,0 +1,32 @@
+
+>>> [1] vaginal/SRR059458
+==============================================
+Accession : SRR059458
+Bodysite  : vaginal
+Threads   : 8
+Output dir: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458
+
+>>> [2] vaginal/SRR059459
+==============================================
+Accession : SRR059459
+Bodysite  : vaginal
+Threads   : 8
+Output dir: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459
+
+>>> [3] vaginal/SRR513791
+==============================================
+Accession : SRR513791
+Bodysite  : vaginal
+Threads   : 8
+Output dir: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791
+==============================================
+Done: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791
+
+==============================================
+Batch complete. Accession dirs seen: 3
+Run log: /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/fastp_runs.log
+==============================================

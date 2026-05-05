@@ -1,0 +1,16 @@
+1.0.2
+Usage:
+  slurm_script -i <folder_with_bins> -o <output_folder> [options]
+
+Required:
+  -i, --input DIR          Folder containing the bin/MAG FASTA files
+  -o, --output DIR         Output directory for CheckM2 results
+
+Optional:
+  -d, --database PATH      Path to CheckM2 diamond database
+                           (default: /maps/datasets/globe_databases/checkm2/20250215/CheckM2_database/uniref100.KO.1.dmnd)
+  -t, --threads INT        Number of threads                 (default: 25)
+  -x, --extension STR      File extension of bins            (default: fa)
+  -e, --extra "STR"        Extra raw arguments forwarded to checkm2 (quoted)
+  -f, --force              Overwrite existing output directory
+  -h, --help               Show this help and exit

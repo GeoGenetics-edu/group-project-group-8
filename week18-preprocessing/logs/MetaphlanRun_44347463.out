@@ -1,0 +1,32 @@
+Found 3 accession(s) under /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/tmp_decompressed_UwntBq/ERR2641635_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/tmp_decompressed_UwntBq/ERR2641635_2.fq
+======================================================================
+[2026-04-29 22:37:51] Profiling: ERR2641635
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641635/cleaned/ERR2641635_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/ERR2641635_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/tmp_decompressed_UwntBq/ERR2641635_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/tmp_decompressed_UwntBq/ERR2641635_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/ERR2641635.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641635/ERR2641635_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/tmp_decompressed_RNZPQq/ERR2641677_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/tmp_decompressed_RNZPQq/ERR2641677_2.fq
+======================================================================
+[2026-04-29 22:55:57] Profiling: ERR2641677
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641677/cleaned/ERR2641677_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/ERR2641677_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/tmp_decompressed_RNZPQq/ERR2641677_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/tmp_decompressed_RNZPQq/ERR2641677_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/ERR2641677.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641677/ERR2641677_metaphlan.txt
+======================================================================
+  decompressing R1 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/tmp_decompressed_1MHhOE/ERR2641733_1.fq
+  decompressing R2 -> /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/tmp_decompressed_1MHhOE/ERR2641733_2.fq
+======================================================================
+[2026-04-29 23:15:27] Profiling: ERR2641733
+  R1:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_1_clean.fq.gz
+  R2:     /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_adult/ERR2641733/cleaned/ERR2641733_2_clean.fq.gz
+  Out:    /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/ERR2641733_metaphlan.txt
+  Cmd:    metaphlan /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/tmp_decompressed_1MHhOE/ERR2641733_1.fq,/maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/tmp_decompressed_1MHhOE/ERR2641733_2.fq --bowtie2out /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/ERR2641733.mapout.bz2 --bowtie2db /maps/datasets/globe_databases/metaphlan/20241118 --index mpa_vJun23_CHOCOPhlAnSGB_202403 --nproc 11 --input_type fastq -o /maps/projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/03_metaphlan_abd/gut_adult/ERR2641733/ERR2641733_metaphlan.txt
+======================================================================
+======================================================================
+[2026-04-29 23:31:45] Batch finished.
+  Bodysite:   gut_adult
+  Succeeded:  3 / 3

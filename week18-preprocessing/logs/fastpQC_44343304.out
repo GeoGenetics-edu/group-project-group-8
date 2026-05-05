@@ -1,0 +1,32 @@
+
+>>> [1] gut_adult/ERR2641635
+==============================================
+Accession : ERR2641635
+Bodysite  : gut_adult
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641635
+
+>>> [2] gut_adult/ERR2641677
+==============================================
+Accession : ERR2641677
+Bodysite  : gut_adult
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641677
+
+>>> [3] gut_adult/ERR2641733
+==============================================
+Accession : ERR2641733
+Bodysite  : gut_adult
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_adult/ERR2641733
+
+==============================================
+Batch complete. Accession dirs seen: 3
+Run log: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/fastp_runs.log
+==============================================

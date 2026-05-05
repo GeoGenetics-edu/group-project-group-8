@@ -1,0 +1,123 @@
+Building a SMALL index
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "da_DK.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+19890315 reads; of these:
+  19890315 (100.00%) were paired; of these:
+    2192080 (11.02%) aligned concordantly 0 times
+    16315920 (82.03%) aligned concordantly exactly 1 time
+    1382315 (6.95%) aligned concordantly >1 times
+    ----
+    2192080 pairs aligned concordantly 0 times; of these:
+      87138 (3.98%) aligned discordantly 1 time
+    ----
+    2104942 pairs aligned 0 times concordantly or discordantly; of these:
+      4209884 mates make up the pairs; of these:
+        3629309 (86.21%) aligned 0 times
+        361251 (8.58%) aligned exactly 1 time
+        219324 (5.21%) aligned >1 times
+90.88% overall alignment rate
+[bam_sort_core] merging from 1 files and 15 in-memory blocks...
+Output depth matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641635/ERR2641635_metabat.depth
+jgi_summarize_bam_contig_depths 2.17 (Bioconda) 2024-12-15T06:34:17
+Running with 16 threads to save memory you can reduce the number of threads with the OMP_NUM_THREADS variable
+Output matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641635/ERR2641635_metabat.depth
+Opening all bam files and validating headers
+Processing bam files with largest_contig=0
+Thread 0 opening and reading the header for file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641635/ERR2641635.bam
+Thread 0 opened the file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641635/ERR2641635.bam
+Thread 0 processing bam 0: ERR2641635.bam
+Thread 0 finished reading bam 0: ERR2641635.bam
+Thread 0 finished: ERR2641635.bam with 39780630 reads and 34194312 readsWellMapped (85.9572%)
+Creating depth matrix file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641635/ERR2641635_metabat.depth
+Closing last bam file
+Finished
+[Warning!] Negative coverage depth is not allowed for the contig k141_47779, column 1: -1.2353e+09
+[Warning!] Need to check where the average depth is greater than 1e+7 for the contig k141_57334, column 1
+[Warning!] Negative coverage depth is not allowed for the contig k141_9556, column 1: -5.50232e+08
+Building a SMALL index
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "da_DK.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+21802984 reads; of these:
+  21802984 (100.00%) were paired; of these:
+    2662668 (12.21%) aligned concordantly 0 times
+    18121239 (83.11%) aligned concordantly exactly 1 time
+    1019077 (4.67%) aligned concordantly >1 times
+    ----
+    2662668 pairs aligned concordantly 0 times; of these:
+      80182 (3.01%) aligned discordantly 1 time
+    ----
+    2582486 pairs aligned 0 times concordantly or discordantly; of these:
+      5164972 mates make up the pairs; of these:
+        4680195 (90.61%) aligned 0 times
+        315518 (6.11%) aligned exactly 1 time
+        169259 (3.28%) aligned >1 times
+89.27% overall alignment rate
+[bam_sort_core] merging from 1 files and 15 in-memory blocks...
+Output depth matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641677/ERR2641677_metabat.depth
+jgi_summarize_bam_contig_depths 2.17 (Bioconda) 2024-12-15T06:34:17
+Running with 16 threads to save memory you can reduce the number of threads with the OMP_NUM_THREADS variable
+Output matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641677/ERR2641677_metabat.depth
+Opening all bam files and validating headers
+Processing bam files with largest_contig=0
+Thread 0 opening and reading the header for file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641677/ERR2641677.bam
+Thread 0 opened the file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641677/ERR2641677.bam
+Thread 0 processing bam 0: ERR2641677.bam
+Thread 0 finished reading bam 0: ERR2641677.bam
+Thread 0 finished: ERR2641677.bam with 43605968 reads and 36452922 readsWellMapped (83.5962%)
+Creating depth matrix file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641677/ERR2641677_metabat.depth
+Closing last bam file
+Finished
+[Warning!] Negative coverage depth is not allowed for the contig k141_36195, column 1: -1.35907e+09
+[Warning!] Negative coverage depth is not allowed for the contig k141_96520, column 1: -8.4403e+08
+[Warning!] Negative coverage depth is not allowed for the contig k141_72390, column 1: -4.02894e+08
+Building a SMALL index
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "da_DK.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+19659500 reads; of these:
+  19659500 (100.00%) were paired; of these:
+    3508323 (17.85%) aligned concordantly 0 times
+    15187477 (77.25%) aligned concordantly exactly 1 time
+    963700 (4.90%) aligned concordantly >1 times
+    ----
+    3508323 pairs aligned concordantly 0 times; of these:
+      60660 (1.73%) aligned discordantly 1 time
+    ----
+    3447663 pairs aligned 0 times concordantly or discordantly; of these:
+      6895326 mates make up the pairs; of these:
+        6463259 (93.73%) aligned 0 times
+        291225 (4.22%) aligned exactly 1 time
+        140842 (2.04%) aligned >1 times
+83.56% overall alignment rate
+[bam_sort_core] merging from 1 files and 15 in-memory blocks...
+Output depth matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641733/ERR2641733_metabat.depth
+jgi_summarize_bam_contig_depths 2.17 (Bioconda) 2024-12-15T06:34:17
+Running with 16 threads to save memory you can reduce the number of threads with the OMP_NUM_THREADS variable
+Output matrix to /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641733/ERR2641733_metabat.depth
+Opening all bam files and validating headers
+Processing bam files with largest_contig=0
+Thread 0 opening and reading the header for file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641733/ERR2641733.bam
+Thread 0 opened the file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641733/ERR2641733.bam
+Thread 0 processing bam 0: ERR2641733.bam
+Thread 0 finished reading bam 0: ERR2641733.bam
+Thread 0 finished: ERR2641733.bam with 39319000 reads and 30245881 readsWellMapped (76.9243%)
+Creating depth matrix file: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/05_binning_metabat2/gut_adult/ERR2641733/ERR2641733_metabat.depth
+Closing last bam file
+Finished
+[Warning!] Negative coverage depth is not allowed for the contig k141_177480, column 1: -1.28365e+09
+[Warning!] Need to check where the average depth is greater than 1e+7 for the contig k141_106488, column 1
+[Warning!] Negative coverage depth is not allowed for the contig k141_88743, column 1: -2.75485e+08

@@ -1,0 +1,27 @@
+MEGAHIT v1.2.9
+Found 3 accession(s) under /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal
+======================================================================
+[2026-04-30 13:46:43] Assembling: vaginal/SRR059458
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR059458
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059458/cleaned/SRR059458_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR059458
+======================================================================
+======================================================================
+[2026-04-30 13:56:34] Assembling: vaginal/SRR059459
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR059459
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR059459/cleaned/SRR059459_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR059459
+======================================================================
+======================================================================
+[2026-04-30 14:06:27] Assembling: vaginal/SRR513791
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR513791
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/vaginal/SRR513791/cleaned/SRR513791_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/vaginal/SRR513791
+======================================================================
+======================================================================
+[2026-04-30 14:07:21] Batch finished.
+  Bodysite:   vaginal
+  Succeeded:  3 / 3

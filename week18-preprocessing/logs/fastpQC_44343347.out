@@ -1,0 +1,32 @@
+
+>>> [1] gut_infant/SRR8692206
+==============================================
+Accession : SRR8692206
+Bodysite  : gut_infant
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692206
+
+>>> [2] gut_infant/SRR8692207
+==============================================
+Accession : SRR8692207
+Bodysite  : gut_infant
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692207
+
+>>> [3] gut_infant/SRR8692213
+==============================================
+Accession : SRR8692213
+Bodysite  : gut_infant
+Threads   : 8
+Output dir: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213
+==============================================
+Done: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/gut_infant/SRR8692213
+
+==============================================
+Batch complete. Accession dirs seen: 3
+Run log: /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/fastp_runs.log
+==============================================

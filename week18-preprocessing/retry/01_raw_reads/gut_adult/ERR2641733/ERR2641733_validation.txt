@@ -1,0 +1,7 @@
+2026-04-13T09:10:48 vdb-validate.3.0.0 info: Table 'ERR2641733.sra' metadata: md5 ok
+2026-04-13T09:10:48 vdb-validate.3.0.0 info: Column 'ALTREAD': checksums ok
+2026-04-13T09:10:49 vdb-validate.3.0.0 info: Column 'QUALITY': checksums ok
+2026-04-13T09:10:50 vdb-validate.3.0.0 info: Column 'READ': checksums ok
+2026-04-13T09:10:50 vdb-validate.3.0.0 info: Column 'X': checksums ok
+2026-04-13T09:10:50 vdb-validate.3.0.0 info: Column 'Y': checksums ok
+2026-04-13T09:10:50 vdb-validate.3.0.0 info: Table 'ERR2641733.sra' is consistent

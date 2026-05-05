@@ -1,0 +1,27 @@
+MEGAHIT v1.2.9
+Found 3 accession(s) under /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant
+======================================================================
+[2026-04-30 13:13:50] Assembling: gut_infant/SRR8692206
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692206
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692206/cleaned/SRR8692206_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692206
+======================================================================
+======================================================================
+[2026-04-30 13:46:47] Assembling: gut_infant/SRR8692207
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692207
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692207/cleaned/SRR8692207_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692207
+======================================================================
+======================================================================
+[2026-04-30 14:20:34] Assembling: gut_infant/SRR8692213
+  R1:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_1_clean.fq.gz
+  R2:     /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_2_clean.fq.gz
+  Out:    /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692213
+  Cmd:    megahit -t 11 --verbose --min-contig-len 1500 -1 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_1_clean.fq.gz -2 /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/02_reads_preprocessing/gut_infant/SRR8692213/cleaned/SRR8692213_2_clean.fq.gz -o /projects/course_1/scratch/group8/group-project-group-8/week18-preprocessing/retry/04_assembly_megahit/gut_infant/SRR8692213
+======================================================================
+======================================================================
+[2026-04-30 14:45:15] Batch finished.
+  Bodysite:   gut_infant
+  Succeeded:  3 / 3

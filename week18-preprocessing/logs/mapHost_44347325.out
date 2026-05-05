@@ -1,0 +1,4 @@
+Error: -p <PREP_DIR> is required.
+Usage:
+  Single: /var/spool/slurm//job44347325/slurm_script -a <ACCESSION> -b <BODYSITE> -i <INDEX_DIR> [-t N] [-p PREP_DIR]
+  Batch : /var/spool/slurm//job44347325/slurm_script -A -i <INDEX_DIR> [-b <BODYSITE>] [-t N] [-p PREP_DIR]

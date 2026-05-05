@@ -1,0 +1,9 @@
+2026-04-13T09:10:58 vdb-validate.3.0.0 info: Database 'SRR8692213.sra' metadata: md5 ok
+2026-04-13T09:10:58 vdb-validate.3.0.0 info: Table 'SEQUENCE' metadata: md5 ok
+2026-04-13T09:10:58 vdb-validate.3.0.0 info: Column 'ALTREAD': checksums ok
+2026-04-13T09:10:59 vdb-validate.3.0.0 info: Column 'QUALITY': checksums ok
+2026-04-13T09:11:00 vdb-validate.3.0.0 info: Column 'READ': checksums ok
+2026-04-13T09:11:00 vdb-validate.3.0.0 info: Column 'READ_LEN': checksums ok
+2026-04-13T09:11:01 vdb-validate.3.0.0 info: Column 'READ_START': checksums ok
+2026-04-13T09:11:01 vdb-validate.3.0.0 info: Database '/maps/projects/course_1/people/fvb335/raw_data/gut_infant/SRR8692213/SRR8692213.sra' contains only unaligned reads
+2026-04-13T09:11:01 vdb-validate.3.0.0 info: Database 'SRR8692213.sra' is consistent
